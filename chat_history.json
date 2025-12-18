@@ -1,1 +1,1 @@
-[{"role": "user", "content": "3*8"}, {"role": "assistant", "content": "3 * 8 = 24"}]
+[{"role": "user", "content": "3*8"}, {"role": "assistant", "content": "3 * 8 = 24"}, {"role": "user", "content": "3+4"}, {"role": "assistant", "content": "The answer is 7."}]
